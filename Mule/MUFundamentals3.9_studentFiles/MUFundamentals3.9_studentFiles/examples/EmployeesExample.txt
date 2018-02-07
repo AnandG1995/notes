@@ -1,0 +1,6 @@
+#%RAML 1.0 NamedExample
+value:
+        "age": 23,
+    "name": "Anand Gokanvi",
+    "id": 1,
+    "salary": 3.25
